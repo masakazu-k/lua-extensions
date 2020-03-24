@@ -1,0 +1,17 @@
+{
+    "name": "lua-extensions",
+    "displayName": "lua-extensions",
+    "description": "Lua Script Extension Sample",
+    "version": "1.0",
+    "author": { "name": "masakazu-k", "url": "https://github.com/masakazu-k" },
+    "publisher": "-",
+    "categories": [
+      "Scripts"
+    ],
+    "contributes": {
+      "scripts": [
+        { "id": "menu-sample", "path": "./menu-sample.lua" }
+      ]
+    }
+  }
+  
